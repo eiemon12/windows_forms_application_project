@@ -1,0 +1,16 @@
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\bin\Debug\BuaLagbe!.exe.config
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\bin\Debug\BuaLagbe!.exe
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\bin\Debug\BuaLagbe!.pdb
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe!.csproj.AssemblyReference.cache
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.logIn.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.Properties.Resources.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe!.csproj.GenerateResource.cache
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe!.csproj.CoreCompileInputs.cache
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe!.exe
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe!.pdb
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.SignUp.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.adminPanel.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.BuaInfo.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.BuaUpdate.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.ClientInfo.resources
+D:\AIUB\7th semester\C#\Final\try\BuaLagbe!\obj\Debug\BuaLagbe_.ClientUpdate.resources
